@@ -3,7 +3,6 @@
 </p><br>
 
 <p align="center">
-<a href="https://github.com/yedhink"><img src="https://img.shields.io/github/followers/yedhink.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/yedhin1998"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/8523669/yedhin"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
 </p><br>
